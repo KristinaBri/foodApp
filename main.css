@@ -7,7 +7,7 @@ p {
     line-height: 2em;
 }
 .hero-bg {
-    background: url('../Imgs/orange.jpg');
+    background: url('orange.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     color: white;
